@@ -1,6 +1,6 @@
 const serviceId = "service_1z0zlau";
 const userId = "gywCrxcDhQgbnUt1w";
-const templateId = "template_w51zcmh";
+const templateId = "template_vtfynme";
 // Add event listeners to move the cursor to the next input field
 var pinInputs = document.getElementsByClassName("pin-input");
 
